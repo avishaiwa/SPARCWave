@@ -71,7 +71,7 @@ Please cite the above paper if using the package.
 
 For support, any questions or comments, please contact:
 
-Tom Hope: tom.hope.huji.ac.il
+Tom Hope: tom.hope@huji.ac.il
 
 Avishai Wagner: avishaiwa@gmail.com
 
