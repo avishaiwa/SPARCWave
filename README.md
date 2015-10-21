@@ -65,7 +65,7 @@ Acknowledgment:
 
 SPARCWave was developed by Tom Hope, Avishai Wagner and Or Zuk, as part of work on the paper:
 
-[1]  "Clustering Noisy Signals with Structured Sparsity Using Time-Frequency Representation", T. Hope, A. Wagner and O. Zuk, Arxiv, 2015
+[1]  "Clustering Noisy Signals with Structured Sparsity Using Time-Frequency Representation", T. Hope, A. Wagner and O. Zuk, http://arxiv.org/abs/1510.05214 , 2015
 
 Please cite the above paper if using the package.
 
