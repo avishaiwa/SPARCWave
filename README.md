@@ -32,9 +32,13 @@ Source files:
 =============
 
 Python files:
+
 SPARCWave_MAIN.py - runs simulations, saves results to disk
+
 SPACWave_functs.py - SPARCWave functions used in other scripts
+
 SPARCWave_get_simulation_results_and_plot.py - loads simulation results from disk, plots
+
 SPARCWave_run_real_data.py - runs SPARCWave on real data files
 
 R files:
@@ -42,7 +46,9 @@ R_functions.R - functions for simulations for running the sparcl library
 
 Matlab files: 
 compute_scattering_on_all_datasets.m - a script for applying the scattering transform on three datasets: Berkeley, Phenome and Wheat (see data directory) 
+
 compute_scattering_multiple_signals.m - a function for computing the scattering transform for a set of signals
+
 scattering_imagesc.m - visualize scattering coefficients 
 
 
@@ -51,12 +57,15 @@ Data files:
 
 CSV files:
 data_growth_T32_Q2_new_ord.csv - Berkeley Growth dataset after scattering transform
+
 labels_growth.csv - labels for Growth dataset
 
 phoneme_scatter_T32_Q8_New_ord.csv - Phoneme dataset after scattering transform
+
 labels_phoneme.csv - labels for Phoneme dataset
 
 wheat_T32_Q8_new_ord.csv - Wheat dataset after scattering transform
+
 labels_wheat.csv - labels for Wheat dataset
 
 
