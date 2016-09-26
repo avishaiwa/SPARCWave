@@ -1,4 +1,11 @@
 ####################################
+The SPARCWave package contains utilities for sparse and structured-sparse clustering of time series using  
+time-freqeuncy signal representations obtained from the wavelets and scattering transforms.
+####################################
+
+Technical issues: 
+=================
+
 This software package uses both Python and R. All code can and should be run only via Python.
 
 R is used for simulations, wavelet transforms, and the sparcl library (Witten & Tibshirani 2010).
@@ -24,10 +31,6 @@ Required Matlab libraries: the scatnent library
 http://www.di.ens.fr/data/software/
 
 
-
-
-#####################################
-
 Source files:
 =============
 
@@ -42,9 +45,11 @@ SPARCWave_get_simulation_results_and_plot.py - loads simulation results from dis
 SPARCWave_run_real_data.py - runs SPARCWave on real data files
 
 R files:
+
 R_functions.R - functions for simulations for running the sparcl library
 
 Matlab files: 
+
 compute_scattering_on_all_datasets.m - a script for applying the scattering transform on three datasets: Berkeley, Phenome and Wheat (see data directory) 
 
 compute_scattering_multiple_signals.m - a function for computing the scattering transform for a set of signals
