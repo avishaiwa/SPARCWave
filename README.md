@@ -36,7 +36,7 @@ http://www.di.ens.fr/data/software/
 Source files:
 =============
 
-Python files:
+** Python files: **
 
 SPARCWave_MAIN.py - runs simulations, saves results to disk
 
@@ -46,11 +46,11 @@ SPARCWave_get_simulation_results_and_plot.py - loads simulation results from dis
 
 SPARCWave_run_real_data.py - runs SPARCWave on real data files
 
-R files:
+** R files: **
 
 R_functions.R - functions for simulations for running the sparcl library
 
-Matlab files: 
+** Matlab files: **
 
 compute_scattering_on_all_datasets.m - a script for applying the scattering transform on three datasets: Berkeley, Phenome and Wheat (see data directory) 
 
@@ -62,7 +62,7 @@ scattering_imagesc.m - visualize scattering coefficients
 Data files:
 ===========
 
-CSV files:
+** CSV files: **
 data_growth_T32_Q2_new_ord.csv - Berkeley Growth dataset after scattering transform
 
 labels_growth.csv - labels for Growth dataset
