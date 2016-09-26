@@ -16,7 +16,7 @@ Python is used for CVXPY, and as a wrapper for R code.
 In addition, Matlab is used for computing the scattering transform on signal. 
 
 
-Required Python libraries: CVXPY, rpy2, sklearn, joblib, numpy, pylab (and dependencies). 
+**Required Python libraries:** CVXPY, rpy2, sklearn, joblib, numpy, pylab (and dependencies). 
 
 http://cvxpy.readthedocs.org/en/latest/tutorial/intro/
 http://rpy.sourceforge.net/
@@ -24,11 +24,11 @@ http://scikit-learn.org/stable/
 https://pypi.python.org/pypi/joblib
 
 
-Required R libraries: sparcl, wmtsa (and dependencies). 
+**Required R libraries:** sparcl, wmtsa (and dependencies). 
 These libraries need to be in the global environment for rpy2 to load them. A simple way to do so is to put
 the folders containing these libraries in [R-PATH]/library. For example: "C:\Program Files\R\R-3.2.1\library" 
 
-Required Matlab libraries: the scatnent library 
+**Required Matlab libraries:** the scatnent library 
 http://www.di.ens.fr/data/software/
 
 
