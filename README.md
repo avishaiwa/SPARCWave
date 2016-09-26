@@ -1,4 +1,6 @@
 ####################################
+Overview: 
+=================
 The SPARCWave package contains utilities for sparse and structured-sparse clustering of time series using  
 time-freqeuncy signal representations obtained from the wavelets and scattering transforms.
 ####################################
