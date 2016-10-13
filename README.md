@@ -19,8 +19,11 @@ In addition, Matlab is used for computing the scattering transform on signal.
 **Required Python libraries:** CVXPY, rpy2, sklearn, joblib, numpy, pylab (and dependencies). 
 
 http://cvxpy.readthedocs.org/en/latest/tutorial/intro/
+
 http://rpy.sourceforge.net/
+
 http://scikit-learn.org/stable/
+
 https://pypi.python.org/pypi/joblib
 
 
