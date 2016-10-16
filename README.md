@@ -27,7 +27,7 @@ best_sparse_kmeans_group,lgroup,w  = sparse_kmeans(AllDataMatrix = AllDataMatrix
 print adjusted_rand_score(labels,lgroup)                                                        
 ```
 
-In the above, we assume a pre-defined tuning parameter `s`. To select it automatically, use a permutation-based method which is can be parallelized:
+In the above, we assume a pre-defined tuning parameter `s`. To select it automatically, use a permutation-based method which can be parallelized with the `joblib` library:
 ```python
 """
 machine_cores_to_use: How many cores to use in parallel
