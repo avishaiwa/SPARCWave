@@ -67,7 +67,9 @@ wheat_T32_Q8_new_ord.csv - Wheat dataset after scattering transform
 
 labels_wheat.csv - labels for Wheat dataset
 
-**Required Python libraries:** CVXPY, sklearn, joblib, numpy, pylab. 
+### Installation:
+
+**Required Python libraries:** CVXPY, sklearn, joblib, numpy, pylab (and dependencies). 
 
 ### Acknowledgments:
 
